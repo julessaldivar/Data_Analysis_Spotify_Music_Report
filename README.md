@@ -11,10 +11,10 @@ Spotify’s recommendation system currently suggests music based on users' liste
 ## Data
 The first dataset for this project was sourced from Spotify's music database, comprising over 40,000 songs with detailed audio features. The genre distribution within the dataset is as follows:
 
-Trap/Rap/Hiphop: 20,272 songs
-EDM: 17,793 songs
-R&B/Pop: 2,560 songs
-Emo: 1,680 songs
+- Trap/Rap/Hiphop: 20,272 songs
+- EDM: 17,793 songs
+- R&B/Pop: 2,560 songs
+- Emo: 1,680 songs
 
 The data includes features such as danceability, energy, loudness, speechiness, acousticness, instrumentalness, liveness, valence, tempo.
 
