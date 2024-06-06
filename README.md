@@ -1,6 +1,6 @@
 # Spotify Music Genre Analysis and Prediction Using Musical Features
 
-**Authors:** Brianna Browning and Jules Saldivar
+**Authors:** Jules Saldivar and Brianna Browning
 ***
 ## Overview
 The purpose of this Data Analysis project is to identify trends in musical/audio features based on genre and use these insights to develop a prediction model for genre classification. By analyzing the musical features of songs, we aim to uncover distinctive patterns that characterize different genres such as EDM, Emo, R&B/Pop, and Trap/Rap/Hiphop. These patterns will then be leveraged to create a machine learning model that can accurately predict the genre of songs. This project aims to enhance music recommendation systems by ensuring accurate genre classification, thereby improving user satisfaction through more relevant music suggestions.
@@ -77,9 +77,7 @@ The analysis revealed distinct trends in musical features across different genre
 
 ## For More Information
 
-Please review the full analysis in ([Uploading Data_Analysis_Spotify_Music_Genres.ipynb…]()
-
-or [Music_Streaming_PowerBI.pdf](https://github.com/user-attachments/files/15597725/Music_Streaming.pdf)
+Please review the full analysis in [the Jupyter Notebook](https://github.com/julessaldivar/Data_Analysis_Spotify_Music_Report/blob/main/Data_Analysis_Spotify_Music_Genres.ipynb) or [Spotify Music Analysis in PowerBI](https://github.com/julessaldivar/Data_Analysis_Spotify_Music_Report/blob/main/DA_Spotify_Music_Genres.pdf)
 
 
-For any additional questions, please contact Jules Saldivar at <julessaldivar@gmail.com> or [LinkedIn](https://www.linkedin.com/in/jules-saldivar-7054792a8/), or Brianna Browning at <bdb97@cornell.edu> or [LinkedIn](https://www.linkedin.com/in/brianna-browning) linkedin.com/in/brianna-browning
+For any additional questions, please contact Jules Saldivar at <julessaldivar@gmail.com> or [LinkedIn](https://www.linkedin.com/in/jules-saldivar-7054792a8/), or Brianna Browning at <bdb97@cornell.edu> or [LinkedIn](https://www.linkedin.com/in/brianna-browning) 
