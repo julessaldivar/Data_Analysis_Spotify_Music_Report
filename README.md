@@ -1,5 +1,6 @@
 # Enhancing Spotify's Recommendation System: Music Genre Analysis and Prediction Using Musical Features
 **Authors:** Jules Saldivar and Brianna Browning
+
 ![image](https://github.com/user-attachments/assets/21a3d530-b106-4f41-bdd4-6067ddb5aa4e)
 ***
 ## Overview
