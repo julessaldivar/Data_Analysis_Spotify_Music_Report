@@ -1,6 +1,6 @@
 # Enhancing Spotify's Recommendation System: Music Genre Analysis and Prediction Using Musical Features
 **Authors:** Jules Saldivar and Brianna Browning
-![image](https://github.com/user-attachments/assets/64c48795-da4f-48d3-8d57-a8fb79c2f7be)
+![image](https://github.com/user-attachments/assets/21a3d530-b106-4f41-bdd4-6067ddb5aa4e)
 ***
 ## Overview
 The purpose of this Data Analysis project is to identify trends in musical/audio features based on genre and use these insights to develop a prediction model for genre classification. By analyzing the musical features of songs, we aim to uncover distinctive patterns that characterize different genres such as EDM, Emo, R&B/Pop, and Trap/Rap/Hiphop. These patterns will then be leveraged to create a machine learning model that can accurately predict the genre of songs. This project aims to enhance music recommendation systems by ensuring accurate genre classification, thereby improving user satisfaction through more relevant music suggestions.
